@@ -1,1 +1,1 @@
-hey guys this is day 2 of learning git and version control.
+hey guys after 2 days i have finally completed the git and github topic. 
